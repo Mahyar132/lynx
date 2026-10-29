@@ -1,0 +1,10 @@
+body {
+    font-family: "Linux Libertine", "Georgia", "Times", "Source Serif 4", serif;
+}
+
+.btn {
+    padding: 0.65rem 1rem !important;
+    border-radius: 15px;
+    font-size: 1.3rem;
+    font-weight: 500;
+}

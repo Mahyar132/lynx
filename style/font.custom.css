@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "Deguland";
+    src: url("../fonts/Deguland.otf") format("opentype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+.deguland {
+    font-family: "Deguland", sans-serif;
+}
