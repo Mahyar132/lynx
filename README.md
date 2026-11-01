@@ -24,7 +24,7 @@ Lynx is a lightweight personal link page, similar to Linktree, built with HTML, 
 
 ## License
 
-The original code of Lynx is licensed under the
+The html code of Lynx is licensed under the
 [GNU General Public License v3.0 or later](https://www.gnu.org/licenses/gpl-3.0.html).
 
 ## Assets and Licensing
